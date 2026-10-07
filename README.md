@@ -1,1 +1,0 @@
-# kibo-launch-strategy
